@@ -37,9 +37,11 @@ Repo ini adalah **kumpulan tugas** milik **DixzzXD88**. Struktur folder di bawah
 
 ---
 
+<!-- START_LIST -->
+
 ## 📋 Daftar File & Folder
 
-> ⏳ _Daftar file akan muncul di sini setelah GitHub Actions jalan pertama kali._
+⏳ _Daftar file akan muncul di sini setelah GitHub Actions jalan pertama kali._
 
 <!-- END_LIST -->
 
