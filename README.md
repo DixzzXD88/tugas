@@ -30,6 +30,7 @@ Repo ini adalah **kumpulan tugas** milik **DixzzXD88**. Struktur folder di bawah
 📦 tugas/
 ┣━━ 🐍 matchCase.py
 ┣━━ 📝 README.md
+┣━━ 🟨 tes.js
 ┗━━ 🐍 while.py
 ```
 
@@ -41,12 +42,13 @@ Repo ini adalah **kumpulan tugas** milik **DixzzXD88**. Struktur folder di bawah
 
 ## 📋 Daftar File & Folder
 
-**📊 Total: 3 file · 0 folder · 3.2 KB**
+**📊 Total: 4 file · 0 folder · 3.4 KB**
 
 | 🎯 | Nama File | Path | Ukuran |
 |----|-----------|------|--------|
 | 🐍 | [matchCase.py](matchCase.py) | `matchCase.py` | 338 B |
-| 📝 | [README.md](README.md) | `README.md` | 2.3 KB |
+| 📝 | [README.md](README.md) | `README.md` | 2.5 KB |
+| 🟨 | [tes.js](tes.js) | `tes.js` | 1 B |
 | 🐍 | [while.py](while.py) | `while.py` | 560 B |
 
 <!-- END_LIST -->
