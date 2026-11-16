@@ -41,7 +41,13 @@ Repo ini adalah **kumpulan tugas** milik **DixzzXD88**. Struktur folder di bawah
 
 ## 📋 Daftar File & Folder
 
-⏳ _Daftar file akan muncul di sini setelah GitHub Actions jalan pertama kali._
+**📊 Total: 3 file · 0 folder · 3.2 KB**
+
+| 🎯 | Nama File | Path | Ukuran |
+|----|-----------|------|--------|
+| 🐍 | [matchCase.py](matchCase.py) | `matchCase.py` | 338 B |
+| 📝 | [README.md](README.md) | `README.md` | 2.3 KB |
+| 🐍 | [while.py](while.py) | `while.py` | 560 B |
 
 <!-- END_LIST -->
 
