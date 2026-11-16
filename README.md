@@ -26,7 +26,12 @@ Repo ini adalah **kumpulan tugas** milik **DixzzXD88**. Struktur folder di bawah
 
 ## 📂 Struktur Folder
 
-> ⏳ _Struktur folder akan muncul di sini setelah GitHub Actions jalan pertama kali._
+```bash
+📦 tugas/
+┣━━ 🐍 matchCase.py
+┣━━ 📝 README.md
+┗━━ 🐍 while.py
+```
 
 <!-- END_TREE -->
 
