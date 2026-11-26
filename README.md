@@ -28,6 +28,39 @@ Repo ini adalah **kumpulan tugas** milik **DixzzXD88**. Struktur folder di bawah
 
 ```bash
 📦 tugas/
+┣━━ 📁 Python
+┃   ┣━━ 📁 seleksi
+┃   ┃   ┣━━ 🐍 soal1.py
+┃   ┃   ┣━━ 🐍 soal10.py
+┃   ┃   ┣━━ 🐍 soal2.py
+┃   ┃   ┣━━ 🐍 soal3.py
+┃   ┃   ┣━━ 🐍 soal4.py
+┃   ┃   ┣━━ 🐍 soal5.py
+┃   ┃   ┣━━ 🐍 soal6.py
+┃   ┃   ┣━━ 🐍 soal7.py
+┃   ┃   ┣━━ 🐍 soal8.py
+┃   ┃   ┗━━ 🐍 soal9.py
+┃   ┣━━ 📁 ujian
+┃   ┃   ┣━━ 🐍 1.py
+┃   ┃   ┣━━ 🐍 2.py
+┃   ┃   ┣━━ 🐍 3.py
+┃   ┃   ┣━━ 🐍 4.py
+┃   ┃   ┣━━ 🐍 5.py
+┃   ┃   ┣━━ 🐍 6.py
+┃   ┃   ┗━━ 🐍 7.py
+┃   ┣━━ 📁 while
+┃   ┃   ┣━━ 🐍 bola.py
+┃   ┃   ┣━━ 🌐 index.html
+┃   ┃   ┣━━ 🐍 negara.py
+┃   ┃   ┣━━ 🐍 while.py
+┃   ┃   ┣━━ 🐍 while2.py
+┃   ┃   ┣━━ 🐍 while3.py
+┃   ┃   ┗━━ 🐍 while4.py
+┃   ┣━━ 🐍 latihan1.py
+┃   ┣━━ 🐍 latihan2.py
+┃   ┣━━ 🐍 latihan3.py
+┃   ┣━━ 🐍 latihan4.py
+┃   ┗━━ 🐍 latihan5.py
 ┣━━ 🐍 matchCase.py
 ┣━━ 📝 README.md
 ┣━━ 🟨 tes.js
@@ -42,12 +75,41 @@ Repo ini adalah **kumpulan tugas** milik **DixzzXD88**. Struktur folder di bawah
 
 ## 📋 Daftar File & Folder
 
-**📊 Total: 4 file · 0 folder · 3.4 KB**
+**📊 Total: 33 file · 4 folder · 16.9 KB**
 
 | 🎯 | Nama File | Path | Ukuran |
 |----|-----------|------|--------|
+| 🐍 | [soal1.py](Python/seleksi/soal1.py) | `Python/seleksi/soal1.py` | 139 B |
+| 🐍 | [soal10.py](Python/seleksi/soal10.py) | `Python/seleksi/soal10.py` | 3.2 KB |
+| 🐍 | [soal2.py](Python/seleksi/soal2.py) | `Python/seleksi/soal2.py` | 126 B |
+| 🐍 | [soal3.py](Python/seleksi/soal3.py) | `Python/seleksi/soal3.py` | 165 B |
+| 🐍 | [soal4.py](Python/seleksi/soal4.py) | `Python/seleksi/soal4.py` | 185 B |
+| 🐍 | [soal5.py](Python/seleksi/soal5.py) | `Python/seleksi/soal5.py` | 161 B |
+| 🐍 | [soal6.py](Python/seleksi/soal6.py) | `Python/seleksi/soal6.py` | 319 B |
+| 🐍 | [soal7.py](Python/seleksi/soal7.py) | `Python/seleksi/soal7.py` | 410 B |
+| 🐍 | [soal8.py](Python/seleksi/soal8.py) | `Python/seleksi/soal8.py` | 531 B |
+| 🐍 | [soal9.py](Python/seleksi/soal9.py) | `Python/seleksi/soal9.py` | 523 B |
+| 🐍 | [1.py](Python/ujian/1.py) | `Python/ujian/1.py` | 114 B |
+| 🐍 | [2.py](Python/ujian/2.py) | `Python/ujian/2.py` | 618 B |
+| 🐍 | [3.py](Python/ujian/3.py) | `Python/ujian/3.py` | 246 B |
+| 🐍 | [4.py](Python/ujian/4.py) | `Python/ujian/4.py` | 972 B |
+| 🐍 | [5.py](Python/ujian/5.py) | `Python/ujian/5.py` | 0 B |
+| 🐍 | [6.py](Python/ujian/6.py) | `Python/ujian/6.py` | 86 B |
+| 🐍 | [7.py](Python/ujian/7.py) | `Python/ujian/7.py` | 96 B |
+| 🐍 | [bola.py](Python/while/bola.py) | `Python/while/bola.py` | 183 B |
+| 🌐 | [index.html](Python/while/index.html) | `Python/while/index.html` | 1.1 KB |
+| 🐍 | [negara.py](Python/while/negara.py) | `Python/while/negara.py` | 174 B |
+| 🐍 | [while.py](Python/while/while.py) | `Python/while/while.py` | 145 B |
+| 🐍 | [while2.py](Python/while/while2.py) | `Python/while/while2.py` | 201 B |
+| 🐍 | [while3.py](Python/while/while3.py) | `Python/while/while3.py` | 794 B |
+| 🐍 | [while4.py](Python/while/while4.py) | `Python/while/while4.py` | 840 B |
+| 🐍 | [latihan1.py](Python/latihan1.py) | `Python/latihan1.py` | 560 B |
+| 🐍 | [latihan2.py](Python/latihan2.py) | `Python/latihan2.py` | 152 B |
+| 🐍 | [latihan3.py](Python/latihan3.py) | `Python/latihan3.py` | 214 B |
+| 🐍 | [latihan4.py](Python/latihan4.py) | `Python/latihan4.py` | 508 B |
+| 🐍 | [latihan5.py](Python/latihan5.py) | `Python/latihan5.py` | 868 B |
 | 🐍 | [matchCase.py](matchCase.py) | `matchCase.py` | 338 B |
-| 📝 | [README.md](README.md) | `README.md` | 2.5 KB |
+| 📝 | [README.md](README.md) | `README.md` | 2.6 KB |
 | 🟨 | [tes.js](tes.js) | `tes.js` | 1 B |
 | 🐍 | [while.py](while.py) | `while.py` | 560 B |
 
